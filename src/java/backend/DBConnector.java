@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.sql.Connection;
 
 /**
- *
+ *  Ske
  * @author PVA
  */
 public class DBConnector {
